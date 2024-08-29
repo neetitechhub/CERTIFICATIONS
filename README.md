@@ -3,7 +3,7 @@ Power BI &amp; SQL
 
 1. https://www.udemy.com/certificate/UC-75e1c919-d99d-4eb2-991e-11c1bae24fd3/
 2. https://www.udemy.com/certificate/UC-0d2266df-dec9-41e9-a177-b502af549e5a/
-3. https://www.udemy.com/certificate/UC-0d2266df-dec9-41e9-a177-b502af549e5a/
+3. https://www.udemy.com/certificate/UC-39da310a-2d57-4b8d-9e7a-f432f9d95010/
 4. https://codebasics.io/certificate/CB-49-310401
 
 <img width="439" alt="image" src="https://github.com/user-attachments/assets/2b7e24b2-58ca-444f-919b-80c3ec1a2448">
